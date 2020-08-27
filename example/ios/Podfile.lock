@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - sendbird_chat (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - sendbird_chat (from `.symlinks/plugins/sendbird_chat/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  sendbird_chat:
+    :path: ".symlinks/plugins/sendbird_chat/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  sendbird_chat: c72ca439e84f63d329d012519eb52a2a59a29e90
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
